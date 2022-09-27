@@ -1,0 +1,15 @@
+{
+    "name": "code-dev-33/app_etl",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcos",
+            "email": "marcos.santos@codenapp.com"
+        }
+    ],
+    "require": {}
+}
